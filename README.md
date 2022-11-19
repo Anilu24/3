@@ -1,15 +1,15 @@
 # 3
-<!DOCTYPE html>
+
  <html>
  <head>
     
     <center>
     <h1><font face= "Serif"> ⎯⎯⎯⎯⎯⎯ Capitulo III ⎯⎯⎯⎯⎯⎯</font></h1>
-    <h2><font size="6";>⭒Complementacion⭒</font></h2> </center>
+    <h2>⭒Complementacion⭒</h2> </center>
  	
 
  	<h3><font size="5">3.1 Otras formas de Biorremediación.</font></h3>
- 	<p><font size="5">En otras formas de biorremediación hay que extraer el suelo contaminado y después limpiarlo.</p>
+ 	<p><font size="5">En otras formas de biorremediación hay que extraer el suelo contaminado y después limpiarlo.
  		
  	<p><font size="4.5">
  		a) Biopilas La técnica de biopilas consiste en formar pilas con el suelo contaminado y estimular la actividad microbiana, agregando aire, agua y fertilizantes que contengan nitrógeno y fósforo, en un ambiente con temperaturas mayores a 15 °C. El aire se introduce mediante un compresor mecánico.</font></p>
@@ -44,7 +44,7 @@
  	    <li>Es un proceso natural, aceptado por la opinión pública y normativas medioambientales.  
  	    <li>Mientras que los tratamientos físicos y buena parte de los químicos están basados en transferir la contaminación entre medios gaseoso, líquido y sólido, en la biorremediación se transfiere poca contaminación de un medio a otro; lo que ocasiona es su degradación final. 
  	    <li>Cuando se utiliza correctamente no produce efectos adversos significativos. 
- 	    <li>No requiere de equipamiento especializado para su aplicación, es poco invasiva y generalmente no requiere componentes estructurales o mecánicos que signifiquen una amenaza para el medio.</ul></p>
+ 	    <li>No requiere de equipamiento especializado para su aplicación, es poco invasiva y generalmente no requiere componentes estructurales o mecánicos que signifiquen una amenaza para el medio.
  	    <p><h3><font size="6">3.3 Desventajas de la biorremediación.</font></h3></p>
  	    <p><font size="4"><ul>
  	    <li>A diferencia de otros tratamientos, en la biorremediación se requieren períodos de tiempo más largos para lograr resultados esperados.  
@@ -58,7 +58,7 @@
         <li>Es difícil de extrapolar condiciones del laboratorio o planta piloto al sitio final a remediar. 
         <li>La biodegradación incompleta puede generar intermediarios metabólicos inaceptables, con un poder contaminante similar o incluso superior al producto de partida y algunos compuestos contaminantes son tan resistentes que pueden incluso inhibir la biorremediación. 
         <li>Requiere investigación multidisciplinaria para determinar y optimizar las condiciones de biorremediación. 
-        <li>Su optimización requiere información sustancial acerca del lugar contaminado y las características del vertido.</ul>
+        <li>Su optimización requiere información sustancial acerca del lugar contaminado y las características del vertido.
 &nbsp;
 <p><font size="4.5">La principal ventaja de estos métodos de remediación es que requieren poco tiempo 
 para limpiar el sitio contaminado, su principal desventaja es que no garantizan que 
