@@ -19,7 +19,7 @@
  	<p><font size="4.5">
  		b) Biolabranza La técnica de biolabranza consiste en airear el suelo
  		almacenado en montones y ahí mismo agregar agua y fertilizantes.
- 	    En este caso, la aireación se realiza con equipos mecánicos como
+ 	    En este caso, la aireación se realiza con equipos mecánicos comoo
  	    tractores o retroexcavadoras. </font></p>
  	    &nbsp;
  	    &nbsp;
